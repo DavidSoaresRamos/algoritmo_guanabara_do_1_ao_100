@@ -1,3 +1,5 @@
+// /Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles.
+
 import java.util.Scanner;
 
 public class somatorio {
