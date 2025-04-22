@@ -1,4 +1,6 @@
+// Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
 import java.util.Scanner;
+
 public class entireNumber{
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
