@@ -1,5 +1,7 @@
-import java.util.Scanner;
+// Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
 
+import java.util.Scanner;
+ 
 public class realNumber {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
