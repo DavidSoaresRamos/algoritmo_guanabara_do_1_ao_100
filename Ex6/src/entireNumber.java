@@ -1,4 +1,5 @@
-// Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
+//Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor.
+
 import java.util.Scanner;
 
 public class entireNumber{
