@@ -3,6 +3,7 @@
 //   retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
 //   de cada lado deve ser menor que a soma dos outros dois.
 
+
 import java.util.Scanner;
 
 public class canFormATriangle {
