@@ -3,7 +3,6 @@
 //  - O segundo valor é o maior
 //  - Não existe valor maior, os dois são iguais
 
-
 import java.util.Scanner;
 
 public class numerosInteiros {
